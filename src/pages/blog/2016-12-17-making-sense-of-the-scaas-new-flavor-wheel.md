@@ -34,7 +34,7 @@ Coffee cupping, or coffee tasting, is the practice of observing the tastes and a
 The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
 
 <script>
-    fbq('track', 'Purchase', {currency: "USD", value: 30.00});
+    fbq('track', 'Purchase', {currency: "USD", value: 35.00});
 </script>
 
    <form action="" name="myForm">
