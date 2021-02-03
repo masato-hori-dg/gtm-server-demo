@@ -36,3 +36,9 @@ The coffee taster attempts to measure aspects of the coffee's taste, specificall
 <script>
     fbq('track', 'Purchase', {currency: "USD", value: 30.00});
 </script>
+
+   <form action="" name="myForm">
+         名前: <input type="text" name="name">
+         <input type="hidden" id="gclid_field" name="gclid_field" value="testval">
+         <input type="submit" value="Submit Form" name="btnSubmit">
+   </form>
