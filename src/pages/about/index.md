@@ -1,8 +1,14 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About our values
 ---
+   <form action="" name="myForm">
+         名前: <input type="text" name="name">
+         <input type="hidden" id="gclid_field" name="gclid_field" value="testval">
+         <input type="submit" value="Submit Form" name="btnSubmit">
+   </form>
+
 ### Shade-grown coffee
 Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
